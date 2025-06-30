@@ -6,6 +6,7 @@ PT-BR | [EN](README_EN.md) | [ES](README_ES.md)
 📍 Bauru, São Paulo – Brasil  
 📧 fabricio.isigal@gmail.com  
 🔗 [GitHub](https://github.com/GaldinoFabricio)
++55 14 998093895
 
 ---
 
