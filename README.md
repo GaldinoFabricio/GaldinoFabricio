@@ -1,4 +1,4 @@
-# Hi, I'm Fabricio Galdino
+# Hi, I'm Fabricio Isidoro Galdino
 
 Backend Engineer from Brazil focused on Node.js, TypeScript, SQL performance, and scalable API design.
 
@@ -17,3 +17,6 @@ Node.js • TypeScript • Express • MySQL • PostgreSQL • React • Docker
 - URL Shortener API
 - Fullstack business application
 - Clean Architecture backend experiments
+
+🌐 Website: https://galdinofabricio.com
+💼 LinkedIn: [SEU_LINK_AQUI](https://www.linkedin.com/in/fabricio-isidoro-galdino-2b5a5a143/)
