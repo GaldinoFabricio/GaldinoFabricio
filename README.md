@@ -18,5 +18,6 @@ Node.js • TypeScript • Express • MySQL • PostgreSQL • React • Docker
 - Fullstack business application
 - Clean Architecture backend experiments
 
-🌐 Website: https://galdinofabricio.com
-💼 LinkedIn: [SEU_LINK_AQUI](https://www.linkedin.com/in/fabricio-isidoro-galdino-2b5a5a143/)
+🌐 [WebSite](https://galdinofabricio.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/fabricio-isidoro-galdino-2b5a5a143/)
